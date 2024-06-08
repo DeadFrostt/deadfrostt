@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```math
-\ce{$\unicode[goombafont; color: red; pointer-events: none; z-index: -1; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://github.com/DeadFrostt/deadfrostt/blob/main/pillars.webp?raw=true') no-repeat center center;]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color: red; pointer-events: none; z-index: -1; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://github.com/DeadFrostt/deadfrostt/blob/main/pillars.webp?raw=true') no-repeat center center;]{x0000}$}
