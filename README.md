@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```math
-\ce{$&#x5C;unicode[goombafont; color: red; pointer-events: none; z-index: -1; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://github.com/DeadFrostt/deadfrostt/blob/main/carina-nebula-1920-x-1200-wallpaper-gih0dpthuvb700il.jpg?raw=true');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color: red; pointer-events: none; z-index: -1; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://github.com/DeadFrostt/deadfrostt/blob/main/carina-nebula-1920-x-1200-wallpaper-gih0dpthuvb700il.jpg');]{x0000}$}
