@@ -1,18 +1,46 @@
-## Hi there 👋
+# Hi there! 👋 I'm DeadFrostt
 
-<!--
-**DeadFrostt/deadfrostt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer with a passion for building scalable applications, optimizing workflows, and working with modern technologies. My expertise spans Svelte, TypeScript, Node.js, and DevOps, and I love experimenting with WebAssembly and plugin-based architectures to push the boundaries of software development.Beyond development, I enjoy automating workflows, working with cloud infrastructure, and contributing to open-source projects.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-```math
-\ce{$&#x5C;unicode[goombafont; color: red; pointer-events: none; z-index: -1; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; background: url('https://github.com/DeadFrostt/deadfrostt/blob/main/pillars.webp?raw=true') no-repeat center center; background-size: cover; opacity: 0.5;]{x0000}$}
+### Frontend
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![CSS/SASS](https://img.shields.io/badge/-CSS/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AWS S3](https://img.shields.io/badge/-AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![esbuild](https://img.shields.io/badge/-esbuild-FFCF00?style=flat-square&logo=esbuild&logoColor=black)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Azure Pipelines](https://img.shields.io/badge/-Azure_Pipelines-2560E0?style=flat-square&logo=azurepipelines&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+## 🎓 Education
+
+I'm currently pursuing a degree in Computer Science and Physics, expanding my knowledge in other evolving technologies.
+
+## 🚀 Projects
+
+### Cider 2 – [Website](https://cider.sh) (Closed-Source)
+- Actively managed GitHub issues by responding to reports, troubleshooting bugs, and closing resolved tickets.
+- Contributed to the project's documentation to improve clarity and accessibility for users and developers.
+- Made code contributions, working with TypeScript and Vue to refine features and fix small issues.
+- Provided community support by engaging with users and addressing technical concerns.
+
+### Deadfrost.dev – [Website](https://deadfrost.dev) (Built with SvelteKit)
+
+- a personal website made using SvelteKit.
+- Contains dynamic content like a now-playing music widget.
+- Continuously improving with new features.
+    
+## 📬 Find me at
+- **Twitter:** [@DeadFrostt](https://twitter.com/DeadFrostt)  
+- **Discord:** DeadFrost  
+- **Email:** [deadfrost@deadfrost.dev](mailto:deadfrost@deadfrost.dev)  
