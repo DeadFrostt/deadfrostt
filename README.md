@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm DeadFrostt
+# Hi there! 👋 I'm DeadFrost
 
 I'm a Software Engineer with a passion for building scalable applications, optimizing workflows, and working with modern technologies. My expertise spans Svelte, TypeScript, Node.js, and DevOps, and I love experimenting with WebAssembly and plugin-based architectures to push the boundaries of software development.Beyond development, I enjoy automating workflows, working with cloud infrastructure, and contributing to open-source projects.
 
