@@ -21,26 +21,3 @@ I'm a Software Engineer with a passion for building scalable applications, optim
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Azure Pipelines](https://img.shields.io/badge/-Azure_Pipelines-2560E0?style=flat-square&logo=azurepipelines&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-## 🎓 Education
-
-I'm currently pursuing a degree in Computer Science and Physics, expanding my knowledge in other evolving technologies.
-
-## 🚀 Projects
-
-### Cider 2 – [Website](https://cider.sh) (Closed-Source)
-- Actively managed GitHub issues by responding to reports, troubleshooting bugs, and closing resolved tickets.
-- Contributed to the project's documentation to improve clarity and accessibility for users and developers.
-- Made code contributions, working with TypeScript and Vue to refine features and fix small issues.
-- Provided community support by engaging with users and addressing technical concerns.
-
-### Deadfrost.dev – [Website](https://deadfrost.dev) (Built with SvelteKit)
-
-- a personal website made using SvelteKit.
-- Contains dynamic content like a now-playing music widget.
-- Continuously improving with new features.
-    
-## 📬 Find me at
-- **Twitter:** [@DeadFrostt](https://twitter.com/DeadFrostt)  
-- **Discord:** DeadFrost  
-- **Email:** [deadfrost@deadfrost.dev](mailto:deadfrost@deadfrost.dev)  
